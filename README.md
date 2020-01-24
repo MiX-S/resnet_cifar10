@@ -1,6 +1,7 @@
 # Comparison of CIFARNet, ResNet20 and ResNet110 pytorch realizations on CIFAR10 dataset
 
-The idea of this repository is a task from a course on Neural Networks and CV from Samsung Research Russia Open Education
+The idea of this repository is a task from a course on Neural Networks and CV from Samsung Research Russia Open Education:
+https://stepik.org/lesson/230371/step/13?unit=202903
 
 ### Code from these sources was used:
 1. https://github.com/akamaster/pytorch_resnet_cifar10
